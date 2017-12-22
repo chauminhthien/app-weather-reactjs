@@ -58,7 +58,7 @@ class Detail extends Component {
 
     return (
       <div>
-        <h1 className="text-center">Chi Thiết: { citys[id].name } </h1>
+        <h1 className="text-center">Chi Tiết: { citys[id].name } </h1>
         <div className="offset-md-2 col-md-8">
           { listItem }
         </div>
